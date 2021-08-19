@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About
+<!-- # About -->
 
 I am a final year PhD Student at the University of Oxford where I a member of the Optimization for Vision and Learning (OVAL) group in the Department of Engineering Science. 
 
@@ -21,15 +21,15 @@ Prior to my PhD I completed my Bachelors and Master’s in Mathematics and Compu
 - TODO
 
 # Publications
-- Neural Network Branch-and-Bound for Neural Network Verification.
-  Florian Jaeckle, Jingyue Lu, and Pawan M. Kumar. (arXiv)
+- Neural Network Branch-and-Bound for Neural Network Verification.  
+  Florian Jaeckle, Jingyue Lu, and Pawan M. Kumar. (arXiv)  
 
-- Generating Adversarial Examples with Graph Neural Networks.
-  Florian Jaeckle and Pawan M. Kumar. (UAI 21)
+- Generating Adversarial Examples with Graph Neural Networks.  
+  Florian Jaeckle and Pawan M. Kumar. (UAI 21)  
 
-- Neural Lower Bounds for Verification.
-  Florian Jaeckle and Pawan M. Kumar. (RobustML Workshop at ICLR)
+- Neural Lower Bounds for Verification.  
+  Florian Jaeckle and Pawan M. Kumar. (RobustML Workshop at ICLR)  
 
-- On recognising nearly single-crossing preferences.
-  Florian Jaeckle, Dominik Peters, Edith Elkind. (AAAI 18)
+- On recognising nearly single-crossing preferences.  
+  Florian Jaeckle, Dominik Peters, Edith Elkind. (AAAI 18)  
 
