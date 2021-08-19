@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # About -->
+
+
+<br/><br/>
+# About
 
 I am a final year PhD Student at the University of Oxford where I a member of the Optimization for Vision and Learning (OVAL) group in the Department of Engineering Science. 
 
