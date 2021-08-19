@@ -22,14 +22,14 @@ Prior to my PhD I completed my Bachelors and Master’s in Mathematics and Compu
 
 # Publications
 - Neural Network Branch-and-Bound for Neural Network Verification.  
-  Florian Jaeckle, Jingyue Lu, and Pawan M. Kumar. (arXiv)  
+  **Florian Jaeckle**, Jingyue Lu, and Pawan M. Kumar. (arXiv 2021)  
 
 - Generating Adversarial Examples with Graph Neural Networks.  
-  Florian Jaeckle and Pawan M. Kumar. (UAI 21)  
+  **Florian Jaeckle** and Pawan M. Kumar. (UAI 2021)  
 
 - Neural Lower Bounds for Verification.  
-  Florian Jaeckle and Pawan M. Kumar. (RobustML Workshop at ICLR)  
+  **Florian Jaeckle** and Pawan M. Kumar. (RobustML Workshop at ICLR 2021)  
 
 - On recognising nearly single-crossing preferences.  
-  Florian Jaeckle, Dominik Peters, Edith Elkind. (AAAI 18)  
+  **Florian Jaeckle**, Dominik Peters, Edith Elkind. (AAAI 2018)  
 

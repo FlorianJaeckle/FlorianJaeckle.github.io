@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Florian Jaeckle"
+title                    : # "Florian Jaeckle"
 title_separator          : "-"
 name                     : &name "Florian Jaeckle"
 description              : &description "PhD Researcher at Oxford"
