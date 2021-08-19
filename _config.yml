@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Florian Jaeckle"
-  avatar           : "new_profile.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Oxford, United Kingdom"
   employer         :
