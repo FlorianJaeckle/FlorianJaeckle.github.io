@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Florian Jaeckle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Researcher at the Optimization for Vision and Learning Group (OVAL) at the University of Oxford"
   location         : "Oxford, United Kingdom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv/resume        : "https://github.com/FlorianJaeckle/FlorianJaeckle.github.io/blob/master/files/paper1.pdf"
+  cv               : "https://github.com/FlorianJaeckle/FlorianJaeckle.github.io/blob/master/files/paper1.pdf"
 
 
 # Reading Files
