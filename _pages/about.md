@@ -19,20 +19,19 @@ The focus of my PhD lies on improving optimization algorithms with Machine Learn
 
 Prior to my PhD I completed my Bachelors and Master’s in Mathematics and Computer Science at the University of Oxford.
 
-# News
-
-- TODO
-
 # Publications
+- Attention for Adversarial Attacks: Learning from your Mistakes.
+  **Florian Jaeckle**, Aleksandr Agadzhanov, Jingyue Lu, Pawan M. Kumar. (AAAI-22 AdvML Workshop).
+
 - Neural Network Branch-and-Bound for Neural Network Verification.  
-  **Florian Jaeckle**, Jingyue Lu, and Pawan M. Kumar. (arXiv 2021)  
+  **Florian Jaeckle**, Jingyue Lu, and Pawan M. Kumar. (arXiv 2021). 
 
 - Generating Adversarial Examples with Graph Neural Networks.  
-  **Florian Jaeckle** and Pawan M. Kumar. (UAI 2021)  
+  **Florian Jaeckle** and Pawan M. Kumar. (UAI 2021).
 
 - Neural Lower Bounds for Verification.  
-  **Florian Jaeckle** and Pawan M. Kumar. (RobustML Workshop at ICLR 2021)  
+  **Florian Jaeckle** and Pawan M. Kumar. (RobustML Workshop at ICLR 2021). 
 
 - On recognising nearly single-crossing preferences.  
-  **Florian Jaeckle**, Dominik Peters, Edith Elkind. (AAAI 2018)  
+  **Florian Jaeckle**, Dominik Peters, Edith Elkind. (AAAI 2018).
 
