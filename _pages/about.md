@@ -20,7 +20,7 @@ The focus of my PhD lies on improving optimization algorithms with Machine Learn
 Prior to my PhD I completed my Bachelors and Master’s in Mathematics and Computer Science at the University of Oxford.
 
 # Publications
-- Attention for Adversarial Attacks: Learning from your Mistakes.
+- Attention for Adversarial Attacks: Learning from your Mistakes.  
   **Florian Jaeckle**, Aleksandr Agadzhanov, Jingyue Lu, Pawan M. Kumar. (AAAI-22 AdvML Workshop).
 
 - Neural Network Branch-and-Bound for Neural Network Verification.  
