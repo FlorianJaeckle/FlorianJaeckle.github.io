@@ -8,8 +8,8 @@ venue: 'AAAI-22 Workshop on Adversarial Machine Learning and Beyond'
 paperurl: 'http://academicpages.github.io/files/AAAI-Workshop_2022.pdf'
 citation: 'Florian Jaeckle, Aleksandr Agadzhanov, Jingyue Lu, Pawan M. Kumar. (2021). &quot;Attention for Adversarial Attacks: Learning from your Mistakes.&quot; <i>AAAI-22 Workshop on Adversarial Machine Learning and Beyond</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We boost PGD, replacing random restarts with an attention mechanism that is based on Graph Neural Network and learns from previous unsuccessful attacks.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/AAAI-Workshop_2022.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Florian Jaeckle, Aleksandr Agadzhanov, Jingyue Lu, Pawan M. Kumar. (2022). "Attention for Adversarial Attacks: Learning from your Mistakes." <i>AAAI-22 Workshop on Adversarial Machine Learning and Beyond</i>.
