@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Test to check author.googlescholar profile.
+Test to check author.googlescholar profile, here: <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>. 
 
 {% include base_path %}
 
