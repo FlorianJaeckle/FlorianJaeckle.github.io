@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number improving the bounding part of the BaB 
 date: 2021-6-01
 venue: 'Robust Machine Learning Workshop at ICLR'
 paperurl: 'https://florianjaeckle.github.io/files/ICLR_Workshop_2021.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Florian Jaeckle and M. Pawan Kumar. (2021). &quot;Neural Lower Bounds for Verification.&quot; <i>Robust Machine Learning Workshop at ICLR</i>. 1(1).'
 ---
 This paper is about using Graph Neural Networks to improve the bounding part of the Branch-and-Bound algorithm for complete neural network verification.
 
